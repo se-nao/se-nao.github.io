@@ -44,8 +44,8 @@ border-bottom: 3px solid tan;
 font-size: 22px;
 letter-spacing: 5px;
 margin-top: 30px
-padding: 10px 0px 5px 25px;
-padding-bottom: 5px;
+padding: 160px 0px 5px 25px;
+margin-bottom: 80px;
 clear: both;
 }
 
@@ -53,7 +53,7 @@ clear: both;
 float: left;
 text-align: center;
 width: 50%;
-margin-top: 30px;
+margin-top: 50px;
 
 }
 
