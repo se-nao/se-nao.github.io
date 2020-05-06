@@ -28,7 +28,7 @@ padding: 20px 50px;
 }
 
 .main{ 
-padding-top: 100px;
+padding-top: 150px;
 height: 3000px;
 color: dimgray
 }
@@ -45,8 +45,8 @@ padding: 30px;
 border-bottom: 3px solid tan;
 font-size: 22px;
 letter-spacing: 5px;
-padding: 10px 0px 5px 25px;
-padding-bottom: 5px;
+padding: 160px 0px 5px 25px;
+padding-bottom: 80px;
 clear: both;
 }
 
