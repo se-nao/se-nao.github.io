@@ -39,6 +39,10 @@ font-size: 37px;
 font-weight: normal;
 }
 
+.coments {
+padding: 30px;
+}
+
 .section-title{
 border-bottom: 3px solid tan;
 font-size: 22px;
