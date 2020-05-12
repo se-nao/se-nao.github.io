@@ -18,7 +18,7 @@ z-index:10;
 header:before {
 content: '';
 background: inherit;
- filter: blur(1.86px);
+ filter: blur(1.9px);
   position: absolute;
   top: -8px;
   left: -8px;
