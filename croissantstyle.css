@@ -93,3 +93,20 @@ border-bottom: dashed 1.8px tan;
 
 }
 
+
+.btn{
+text-align: center;
+}
+
+.btn1{
+margin-top: 200px;
+font-size: 14px;
+width:180px;
+height:40px;
+border-radius: 25px;
+color:dimgray;
+background-color: tan;
+}
+
+
+
