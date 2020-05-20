@@ -105,3 +105,13 @@ border-bottom: dashed 1.8px tan;
 
 }
 
+.btn1{
+font-size: 14px;
+margin: 450px -490px;
+width:180px;
+height:40px;
+border-radius: 25px;
+color:dimgray;
+background-color: tan;
+}
+
