@@ -1,7 +1,7 @@
 
 body{
 font-family:"Avenir Next";
-background-color: #FDF5E6;
+background-color: #EEE8AA;
 margin: 0px;
 }
 
@@ -107,7 +107,7 @@ border-bottom: dashed 1.8px tan;
 
 .btn1{
 font-size: 14px;
-margin: 480px -380px;
+margin: 70px 500px;
 width:180px;
 height:40px;
 border-radius: 25px;
