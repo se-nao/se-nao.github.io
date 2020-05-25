@@ -109,9 +109,13 @@ button{
 float : center;
 }
 
+.button-wrapper{
+text-align : center;
+}
+
 .btn1{
+margin-bottom: 100px;
 font-size: 14px;
-margin: 70px 480px;
 width:180px;
 height:40px;
 border-radius: 25px;
