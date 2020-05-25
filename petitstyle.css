@@ -105,6 +105,10 @@ border-bottom: dashed 1.8px tan;
 
 }
 
+button{
+float : center;
+}
+
 .btn1{
 font-size: 14px;
 margin: 70px 500px;
