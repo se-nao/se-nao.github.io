@@ -63,6 +63,7 @@ margin-top: 50px;
 .contents-item img{
 display: inline-block;
 vertical-align: middle;
+width: 62%;
 }
 
 .contents-item p {
