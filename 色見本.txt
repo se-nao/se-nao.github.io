@@ -1,0 +1,7 @@
+茶色　
+黄色　#FFFFD6
+黄緑	　#FAF4DC
+緑　　#F0F7EB
+水色　#EBF6F7
+紫　　 #F2EBF7
+赤　　#F7ECEB
