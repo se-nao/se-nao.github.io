@@ -104,13 +104,14 @@ background:#fff8dc; height:32px;
 border-bottom: dashed 1.8px tan;
 
 }
+
 .button-wrapper{
 text-align : center;
 }
 
 .btn1{
 font-size: 14px;
-margin-top: 100px;
+margin-top: 120px;
 margin-bottom: 100px;
 width:180px;
 height:40px;
@@ -118,4 +119,3 @@ border-radius: 25px;
 color:dimgray;
 background-color: tan;
 }
-
